@@ -1,12 +1,12 @@
 /**
  * file: journal_karbytes_21january2026_p0.txt
  * type: plain-text
- * date: 21_JANUARY_2026
+ * date: 22_JANUARY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-As a creator and consumer of art, I sometimes "worry" that eventually human civilization will reach a point in time where "peak creativity" or, more precisely, "peak originality", (in terms of human-originated ideas and innovations) will be attained and humans will, to some extent, by "out of ideas" for how to proceed other than by allowing artificial intelligence to generate content by default or by copying existing art work.
+As a creator and consumer of art, I sometimes "worry" that eventually human civilization will reach a point in time where "peak creativity" or, more precisely, "peak originality", (in terms of human-originated ideas and innovations) will be attained and humans will, to some extent, be "out of ideas" for how to proceed other than by allowing artificial intelligence to generate content by default or by copying existing art work.
 
 To some extent, I think humans have already entered such an era of "peak originality"...
 
