@@ -34,7 +34,7 @@ file_12: KARBYTES_BLOG_APPS-main_02december2025.zip // 541.86 megabytes
 
 file_13: karbytes_basement_46-main.zip // 90.41 megabytes
 
-file_14: KARLINA_OBJECT_extension_pack_55-main_22january2026.zip // 28.53 megabytes
+file_14: KARLINA_OBJECT_extension_pack_55-main_22january2026.zip // 28.56 megabytes
 
 file_15: KARBYTES_FOR_LIFE_BLOG-main_22january2026.zip // 0.72 megabytes
 
@@ -64,6 +64,6 @@ file_26: KARLINA_OBJECT_extension_pack_52-main.zip // 33.83 megabytes
 
 Total number of files: 27
 
-Total folder size: 19735.65 megabytes
+Total folder size: 19735.68 megabytes
 
 --------------------------------
