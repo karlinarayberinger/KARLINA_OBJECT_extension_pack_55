@@ -1,0 +1,35 @@
+/**
+ * file: journal_karbytes_22january2026_p1.txt
+ * type: plain-text
+ * date: 22_JANUARY_2026
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+To Whom It May Concern:
+
+I placed an expedited Amazon dot Com order for two ten-disk spindles of 25-gigabyte M_DISC read-only Blu-ray optical disks on 22_JANUARY_2026 with the intention of making the following complete karbytes web-hosted file backup set:
+
+[plain-text]
+
+    Complete karbytes M_DISC snapshot (as of 11:59PM Pacific Standard Time on 25_JANUARY_2026)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    homogeneous    |     quantity x                         | additional details 
+    M_DISC stack   |     M_DISC_type                        | (in C-style comments)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    top_layer:     |     4 x karbytes2026_0_[25jan2026]     |  // represents the portion of karbytes named karbytes_nexus (as of 11:59PM Pacific Standard Time on 25_JANUARY_2026).
+    bottom_layer:  |     3 x karbytes2025_22                |  // represents the portion of karbytes named karbytes_origins
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[end plain-text]
+
+I expect to have that snapshot package generated, read-tested, and stowed away in my microwave oven vault within seven days of publishing this note file.
+
+What is particularly significant about this particular planned M_DISC snapshot is that it attempts to capture karbytes as it first becomes what I consider to be as perfect as possible. What I mean by "perfect" is devoid of any functional errors such as broken or incorrectly-pointing hyperlinks, outdated information (especially in files which have been copy-pasted from older files and which retain some outdated features that have been overlooked by me and hence not updated in a timely manner).
+
+I plan on "freezing" the micro-directory which this plain-text note is a part of by 11:59PM Pacific Standard Time on 25_JANUARY_2026 to ensure that the "perfection" I seek to capture and "set in stone" is maximally protected from "contaminating" influences. 
+
+(Within the past month I suggested that the micro-directory named KARLINA_OBJECT_extension_pack_52 serves as a decent "template" for generating future karbytes micro-directories. After finding several errors throughout that micro-directory, I decided that this micro-directory (which is named KARLINA_OBJECT_extension_pack_55) is a better exemplar of a karbytes micro-directory template due to the fact that it contains fewer functional errors (and ideally zero of such errors)).
+
+Sincerely,
+karbytes
