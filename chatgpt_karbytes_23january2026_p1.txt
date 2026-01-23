@@ -8,7 +8,7 @@
 
 The following is a plain-text transcript of a conversation between karbytes and ChatGPT-5.2 which took place between 11:59PM Pacific Standard Time on 21_JANUARY_2026 and 11:59PM Pacific Standard Time on 22_JANUARY_2026. The conversation pertains to karbytes noticing that its print_folder_checksums.py program generated non-identical checksum values for apparently identical zip files. 
 
-(What is meant by the term "apparently" is how the expanded zip file appears (as just a folder containing files and possibly sub-folders) while not accounting for "hidden" meta data packaged inside of those pre-expanded zip files).
+(What is meant by the term "apparently" is how the expanded zip file appears (as just a folder containing files and possibly sub-folders) while not accounting for "hidden" meta data packaged inside of the respective pre-expanded zip file).
 
 * * *
 
