@@ -10,6 +10,8 @@ The following is a plain-text transcript of a conversation between karbytes and 
 
 (What is meant by the term "apparently" is how the expanded zip file appears (as just a folder containing files and possibly sub-folders) while not accounting for "hidden" meta data packaged inside of the respective pre-expanded zip file).
 
+relevant_web_page: https://karbytesforlifeblog.wordpress.com/print_folder_checksums/
+
 * * *
 
 karbytes:
