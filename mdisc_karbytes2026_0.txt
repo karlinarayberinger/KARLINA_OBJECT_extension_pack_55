@@ -1,12 +1,12 @@
 /**
  * file: mdisc_karbytes2026_0.txt
  * type: plain-text
- * date: 22_JANUARY_2026
+ * date: 24_JANUARY_2026
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
 
-The following list of M_DISC contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 25_JANUARY_2026 (and the part of that collection which is mainly featured on this web page is named karbytes2026_0). 
+The following list of M_DISC contents encompasses the entire collection of public domain web-based files which comprise the body of intellectual property named karbytes as that collection is configured at 11:59PM Pacific Standard Time on 24_JANUARY_2026 (and the part of that collection which is mainly featured on this web page is named karbytes2026_0). 
 
 As of 31_DECEMBER_2025 on 11:59PM Pacific Standard Time, karbytes2025_22 is officially determined to be in its finalized state (i.e. closed to further modifications).
 
@@ -20,7 +20,7 @@ Throughout all of karbytes' lifetime, karbytes intends to create at least three 
 
 * * *
   
-The total number of megabytes in the folder named karbytes2026_0 (which contains exclusively 27 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
+The total number of megabytes in the folder named karbytes2026_0 (which contains exclusively 28 zip files) was calculated using a small Python program whose source code and resulting text file output is showcased alongside user instructions on the following tutorial web page:
 
 https://karbytesforlifeblog.wordpress.com/print_folder_contents
 
@@ -386,7 +386,7 @@ M_DISC 2 of 2 data collection size: approximately 21 gigabytes
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-karbytes2026_0: // folder contains exactly 27 files (approximately 19735.69 megabytes total).
+karbytes2026_0: // folder contains exactly 28 files (approximately 19770.90 megabytes total).
 
     - zip_file_0: karbytes_human_genome_fasta_part_0-main.zip // 5.2 gigabytes (file checksum SHA-256: f743c543a0337ee622324c652b2e03f2f9db7924e8680bc7aa7fa16919260591)
 
@@ -432,15 +432,17 @@ karbytes2026_0: // folder contains exactly 27 files (approximately 19735.69 mega
 
     - zip_file_21: KARLINA_OBJECT_extension_pack_55-main.zip // 30.0 megabytes
 
-    - zip_file_22: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
+    - zip_file_22: KARLINA_OBJECT_extension_pack_56-main_25january2026.zip // 32.3 megabytes
 
-    - zip_file_23: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_23: karbytes_wayback_machine_saves_precision_batches-main.zip // 829.7 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com). 
 
-    - zip_file_24: karbytes_wayback_machine_saves_precision_batches_extension_1-main_25january2026.zip // 46.3 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_24: karbytes_wayback_machine_saves_precision_batches_extension_0-main.zip // 157.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_25: karbytes_basement_46-main.zip // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_25: karbytes_wayback_machine_saves_precision_batches_extension_1-main_25january2026.zip // 50.2 kilobytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
-    - zip_file_26: karbytes_basement_47-main.zip // 148.7 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+    - zip_file_26: karbytes_basement_46-main.zip // 94.8 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
+
+    - zip_file_27: karbytes_basement_47-main.zip // 153.3 megabytes; downloaded from a private karbytes-created GitHub repository; may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com).
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
